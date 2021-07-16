@@ -1,7 +1,7 @@
 # Automation for Ordering Flight Ticket - Tiket.com
-A Web automation script to create transaction for flight product from search until choose payment method for non-login user
+A Web automation script to create transaction for a flight product from search until choose payment method for a non-login user
 
->**NOTE**: This script was done at 15 July 2021. This script might no longer work and throw error in the future as changed made from the website.
+>**NOTE**: This script was completed on 15 July 2021. This script may no longer work and throw error in the future as changes made to the website.
 
 ## Table of content
 - [Automation for Ordering Flight Ticket - Tiket.com](#automation-for-ordering-flight-ticket---tiketcom)
